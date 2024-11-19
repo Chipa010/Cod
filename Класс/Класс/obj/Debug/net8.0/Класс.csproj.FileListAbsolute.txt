@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Класс\Класс\bin\Debug\net8.0\Класс.exe
+C:\Users\Student\source\repos\Класс\Класс\bin\Debug\net8.0\Класс.deps.json
+C:\Users\Student\source\repos\Класс\Класс\bin\Debug\net8.0\Класс.runtimeconfig.json
+C:\Users\Student\source\repos\Класс\Класс\bin\Debug\net8.0\Класс.dll
+C:\Users\Student\source\repos\Класс\Класс\bin\Debug\net8.0\Класс.pdb
+C:\Users\Student\source\repos\Класс\Класс\obj\Debug\net8.0\Класс.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Класс\Класс\obj\Debug\net8.0\Класс.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Класс\Класс\obj\Debug\net8.0\Класс.AssemblyInfo.cs
+C:\Users\Student\source\repos\Класс\Класс\obj\Debug\net8.0\Класс.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Класс\Класс\obj\Debug\net8.0\Класс.dll
+C:\Users\Student\source\repos\Класс\Класс\obj\Debug\net8.0\refint\Класс.dll
+C:\Users\Student\source\repos\Класс\Класс\obj\Debug\net8.0\Класс.pdb
+C:\Users\Student\source\repos\Класс\Класс\obj\Debug\net8.0\Класс.genruntimeconfig.cache
+C:\Users\Student\source\repos\Класс\Класс\obj\Debug\net8.0\ref\Класс.dll

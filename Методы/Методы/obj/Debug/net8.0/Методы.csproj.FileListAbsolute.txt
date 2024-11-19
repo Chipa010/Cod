@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Методы\Методы\bin\Debug\net8.0\Методы.exe
+C:\Users\Student\source\repos\Методы\Методы\bin\Debug\net8.0\Методы.deps.json
+C:\Users\Student\source\repos\Методы\Методы\bin\Debug\net8.0\Методы.runtimeconfig.json
+C:\Users\Student\source\repos\Методы\Методы\bin\Debug\net8.0\Методы.dll
+C:\Users\Student\source\repos\Методы\Методы\bin\Debug\net8.0\Методы.pdb
+C:\Users\Student\source\repos\Методы\Методы\obj\Debug\net8.0\Методы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Методы\Методы\obj\Debug\net8.0\Методы.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Методы\Методы\obj\Debug\net8.0\Методы.AssemblyInfo.cs
+C:\Users\Student\source\repos\Методы\Методы\obj\Debug\net8.0\Методы.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Методы\Методы\obj\Debug\net8.0\Методы.dll
+C:\Users\Student\source\repos\Методы\Методы\obj\Debug\net8.0\refint\Методы.dll
+C:\Users\Student\source\repos\Методы\Методы\obj\Debug\net8.0\Методы.pdb
+C:\Users\Student\source\repos\Методы\Методы\obj\Debug\net8.0\Методы.genruntimeconfig.cache
+C:\Users\Student\source\repos\Методы\Методы\obj\Debug\net8.0\ref\Методы.dll
